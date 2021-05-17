@@ -1,0 +1,7 @@
+﻿Jmeno:          Adam Salich
+Login:          SAL0113
+Předmět:	Programování 1 (Úterý, )
+
+
+Project:        Rezervace mistností
+Zadání :        Úkolom bude možnosť rezervácie miestnosti na zvolený deň (ak už nieje obsadená). Vyhladanie voľných miestností na určitý dátum, do určitej ceny, prípadně kapacity osob a samozrejme export najbližších rezervácií vybranej miestnosti do HTML súboru.
